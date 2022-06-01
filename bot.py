@@ -1,1 +1,3 @@
-
+# .env
+DISCORD_TOKEN={your-bot-token}
+DISCORD_GUILD={your-guild-name}
